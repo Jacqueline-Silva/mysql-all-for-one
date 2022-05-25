@@ -1,0 +1,2 @@
+SELECT DISTINCT(id) FROM northwind.products 
+WHERE id BETWEEN 95 AND 99 ORDER BY id DESC;
