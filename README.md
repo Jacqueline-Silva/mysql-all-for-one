@@ -15,8 +15,7 @@ Praticar comandos do SQL com o banco de dados de exemplo Northwind
 ## :brain: Habilidades desenvolvidas
 
 - Manipular o banco de dados através dos comandos SQL
-- Criar arquivos de build com o Dockerfile
-- Subir o container para acessar o MySQL
+- Subir o container para acessar o MySQL com o auxilio do Docker
 
 ## :hammer_and_wrench: Ferramentas utilizadas
 
